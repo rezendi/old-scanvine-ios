@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5721C729-CDD5-43EE-8224-83A4246F9B7B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scanvine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D51BE4F-404B-4B14-8ABF-F8CBE2B2B2DE</key>
+		<string>https://github.com/rezendi/scanvine-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Scanvine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D51BE4F-404B-4B14-8ABF-F8CBE2B2B2DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rezendi/scanvine-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D51BE4F-404B-4B14-8ABF-F8CBE2B2B2DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D51BE4F-404B-4B14-8ABF-F8CBE2B2B2DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scanvine-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
